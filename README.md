@@ -6,16 +6,16 @@ Please fill the [registration form](http://tcci.ccf.org.cn/conference/2025/share
 | ---- | --------- |
 | 1    | ZZU-NLP   |
 
-If you encounter any problems, feel free to contact Zheqin Yin (zqyin@stu.ecnu.edu.cn)	:)
+If you encounter any problems, feel free to contact Zheqin Yin (zqyin@stu.ecnu.edu.cn)	
 
-
+:)
 
 # News
 
-| Date      | News                 |
-| --------- | -------------------- |
-| 2025.2.17 | registration open    |
-| 2025.4.11 | release of test data |
+| Date      | News                                            |
+| --------- | ----------------------------------------------- |
+| 2025.2.17 | Registration Open                               |
+| 2025.4.11 | Registration Deadline<br />Release of test data |
 
 
 
