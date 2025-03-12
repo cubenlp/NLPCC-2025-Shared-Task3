@@ -4,11 +4,12 @@ Please fill the [registration form](http://tcci.ccf.org.cn/conference/2025/share
 
 请填写[报名表](http://tcci.ccf.org.cn/conference/2025/sharedTasks/NLPCC2025.SharedTask3.RegistrationForm.doc)并将其发送至zqyin@stu.ecnu.edu.cn（请注意，报名表中的邮箱地址有误）如果我们成功收到了您的报名表，我们会在48小时内将您的队伍名称添加至下表：
 
-| Id   | Team Name   |
-| ---- | ----------- |
-| 1    | ZZU-NLP     |
-| 2    | 西西恩优NLP |
-| 3    | Moon        |
+| Id   | Team Name       |
+| ---- | --------------- |
+| 1    | ZZU-NLP         |
+| 2    | 西西恩优NLP     |
+| 3    | Moon            |
+| 4    | YouTuLab_Jarvis |
 
 If you encounter any problems, feel free to contact Zheqin Yin (zqyin@stu.ecnu.edu.cn)	
 
