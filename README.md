@@ -12,6 +12,7 @@ Please fill the [registration form](http://tcci.ccf.org.cn/conference/2025/share
 | 4    | YouTuLab_Jarvis |
 | 5    | TW-NLP          |
 | 6    | YNU-HPCC        |
+| 7    | CCNU NLP        |
 
 If you encounter any problems, feel free to contact Zheqin Yin (zqyin@stu.ecnu.edu.cn)	
 
