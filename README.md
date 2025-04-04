@@ -19,6 +19,7 @@ Please fill the [registration form](http://tcci.ccf.org.cn/conference/2025/share
 | 11   | Phd wu          |
 | 12   | Bits            |
 | 13   | 炼丹师_zzunlp   |
+| 14   | Prompt          |
 
 If you encounter any problems, feel free to contact Zheqin Yin (zqyin@stu.ecnu.edu.cn)	
 
