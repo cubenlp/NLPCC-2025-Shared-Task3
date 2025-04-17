@@ -5,7 +5,6 @@
 3. Your submission must include a description of your method (for testing phrase, a simple paragraph is sufficient so that you can focus on optimizing your system). Submissions without this description will not be considered for evaluation.
 4. During the testing process, only a portion of the testing data will be used for evaluation, in order to prevent cheating.
 5. Usage of training data from NLPCC2024 shared task 5 is forbidden.
-6. Only the best performance (measured by the total score) will be displayed below.
 
 # Leaderboard
 
@@ -20,4 +19,29 @@ $$Score = 0.4\times Track1 + 0.6 \times Track2$$
 | 3    | TW-NLP        | 48.48  | 0.00   | 19.39 |
 | -    | Baseline      | 31.73  | 13.06  | 20.53 |
 
-Update on 2025.4.16 20:52
+
+
+# Leaderboard-4.16
+
+| Rank | System Name   | Track1 | Track2 | Total |
+| ---- | ------------- | ------ | ------ | ----- |
+| 1    | 炼丹师_zzunlp | 44.25  | 10.86  | 24.21 |
+| 2    | Prompt        | 54.19  | 0.00   | 21.68 |
+| 3    | TW-NLP        | 48.48  | 0.00   | 19.39 |
+| -    | Baseline      | 31.73  | 13.06  | 20.53 |
+
+
+
+# Leaderboard-4.15
+
+The total score is computed as follows:
+
+$$Score = 0.4\times Track1 + 0.6 \times Track2$$
+
+| Rank | System Name   | Track1 | Track2 | Total |
+| ---- | ------------- | ------ | ------ | ----- |
+| 1    | 炼丹师_zzunlp | 50.45  | 8.54   | 25.30 |
+| -    | Baseline      | 31.73  | 13.06  | 20.53 |
+
+
+
