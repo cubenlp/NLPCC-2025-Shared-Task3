@@ -35,6 +35,7 @@ If you encounter any problems, feel free to contact Zheqin Yin (zqyin@stu.ecnu.e
 | 2025.4.11 | Registration Deadline<br />Release of test data |
 | 2025.4.13 | Start updating leaderboard                      |
 | 2025.4.20 | Submission deadline                             |
+| 2025.4.27 | Technique Report Submission deadline            |
 
 
 
